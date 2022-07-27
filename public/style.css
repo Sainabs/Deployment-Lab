@@ -3,7 +3,22 @@ body{
 }
  
 h1{
-    color: blueviolet;
-    border-radius: 50px ;
-    font-size: larger;
+    color: rgba(74, 134, 224, 0.851);
+    border-radius: 40px ;
+    text-align: center;
+    /* align-items: center; */
+    font-size: 80px;
+    /* position: fixed; */
+    background-color: rgb(245, 149, 195)
+};
+
+
+.resize {
+    width: 600px;
+    height: auto;
+}
+    
+.resize {
+    width: 500px;
+    height: auto;
 }
